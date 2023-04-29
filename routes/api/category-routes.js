@@ -24,7 +24,7 @@ router.get('/:id', (req, res) => {
   Category.findOne({
     where: { id: req.params.id },
     include: [Product],
-    attributes: ['product_name', 'price', 'stock']
+    // attributes: ['product_name', 'price', 'stock']
   })
     .then((categoryData) => {
       if (!categoryData) {
@@ -77,7 +77,7 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', (req, res) => {
   // delete a category by its `id` value
-  Category.delete({
+  Category.destroy({
     where: { id: req.params.id }
   })
     .then((categoryData) => {
