@@ -24,11 +24,11 @@ router.get('/:id', (req, res) => {
   Category.findOne({
     where: { id: req.params.id },
     include: [Product],
-    attributes: ['id', 'category_name']
+    attributes: ['id', 'category_name', 'product_name', 'price', 'stock', 'category_id']
   })
     .then((categoryData) => {
       if (!categoryData) {
-        res.status(404).json({ message: 'No category found with this id' });
+        res.status(404).json({ message: 'No categories found' });
         return;
       }
       res.json(categoryData);
@@ -43,7 +43,7 @@ router.get('/:id', (req, res) => {
 router.post('/', (req, res) => {
   // create a new category
   Category.create({
-    categoryName: req.body.category_name
+    category_name: req.body.category_name
   })
   .then((categoryData) => res.json(categoryData))
   .catch((err) => {
@@ -56,7 +56,7 @@ router.post('/', (req, res) => {
 router.put('/:id', (req, res) => {
   // update a category by its `id` value
   Category.update({
-    categoryName: req.body.categoryName,
+    category_name: req.body.category_name,
   },
     {
       where: { id: req.params.id }
