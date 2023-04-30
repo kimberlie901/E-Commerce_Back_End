@@ -46,11 +46,11 @@ This is a back-end application for an E-Commerce site using Express.js Node.js. 
 
 ## Author 
 
-This tutorial was created by Kimberlie Guillaume
+This application was created by Kimberlie Guillaume
 
-- [Github]()
-- [Portfolio]()  
-- [LinkedIn]()
+- [Github](https://github.com/kimberlie901)
+- [Portfolio](https://kimberlie901.github.io/Professional_Portfolio/) 
+- [LinkedIn](https://www.linkedin.com/in/kjguill1024/)
 
 ## License 
 
