@@ -18,7 +18,12 @@ This is a back-end application for an E-Commerce site using Express.js Node.js. 
 2. Open Visual Studio Code 
 3. Node.js and MySQL are required to run the application 
 4. To install dependencies, navigate to the root directory and run `npm i`
-5. To run application, follow steps in the terminal: mySQL -> source db/schema.sql -> exit -> npm run seed -> npm run start 
+5. To run application, follow steps in the terminal: 
+    - `mySQL` 
+    - `source db/schema.sql`  
+    - `exit`  
+    - `npm run seed`  
+    - `npm run start` 
 
 ## Technologies Used 
 
