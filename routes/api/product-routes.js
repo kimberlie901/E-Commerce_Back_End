@@ -134,7 +134,7 @@ router.put('/:id', (req, res) => {
 // delete product
 router.delete('/:id', (req, res) => {
   // delete one product by its `id` value
-  Product.delete({
+  Product.destroy({
     where: { id: req.params.id }
   })
     .then((productData) => {
