@@ -66,18 +66,18 @@ This is a back-end application for an E-Commerce site using Express.js Node.js. 
 
 ### Insomnia: Tags Screenshots
 
--![CREATE New Tag](Assets/create-new-tag.png)
--![GET ALL Tags](Assets/get-all-tags.png)
--![GET Tag by ID](Assets/get-tag-by.png)
--![UPDATE](Assets/update-tag.png)
+- ![CREATE New Tag](Assets/create-new-tag.png)
+- ![GET ALL Tags](Assets/get-all-tags.png)
+- ![GET Tag by ID](Assets/get-tag-by.png)
+- ![UPDATE](Assets/update-tag.png)
 
 
 ### Insomnia: Products Screenshots
 
--![]()
--![]()
--![]()
--![]()
+- ![CREATE New Product](Assets/create-new-product.png)
+- ![GET ALL Products](Assets/get-all-products.png)
+- ![GET Product by ID](Assets/get-product-by.png)
+- ![UPDATE]()
 
 ### Websites
 
