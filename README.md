@@ -51,9 +51,9 @@ This is a back-end application for an E-Commerce site using Express.js Node.js. 
 
 ### Demo
 
-- [Demo Gif](Assets/13-orm-homework-demo-01.gif)
-- [Demo Gif](Assets/13-orm-homework-demo-02.gif)
-- [Demo Gif](Assets/13-orm-homework-demo-03.gif)
+- ![Demo Gif](Assets/13-orm-homework-demo-01.gif)
+- ![Demo Gif](Assets/13-orm-homework-demo-02.gif)
+- ![Demo Gif](Assets/13-orm-homework-demo-03.gif)
 - [Categories Demo Video](https://drive.google.com/file/d/1I-Hro8EV8d2iR44h813QwUjTGT1OvTKZ/view)
 - [Tags Demo Video](https://drive.google.com/file/d/1fBObAKdQLsJfDzj4EjC-teuVxosPC1Ef/view)
 - [Products Demo Vide](https://drive.google.com/file/d/1ADLENAcpcAJa_00oCEnqjjsofejUGrgo/view)
