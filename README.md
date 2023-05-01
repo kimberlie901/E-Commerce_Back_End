@@ -81,8 +81,8 @@ This is a back-end application for an E-Commerce site using Express.js Node.js. 
 
 ### Websites
 
-- [Deployed Application]()
-- [Github]()
+- [Deployed Application](https://kimberlie901.github.io/E-Commerce_Back_End/)
+- [Github](https://github.com/kimberlie901/E-Commerce_Back_End)
 
 
 ### Author 
