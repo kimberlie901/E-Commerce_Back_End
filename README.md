@@ -58,18 +58,18 @@ This is a back-end application for an E-Commerce site using Express.js Node.js. 
 
 ### Insomnia: Categories Screenshots
 
-- ![CREATE New Category](Assets/create%20new.png)
-- ![GET All categories ](Assets/get%20all%20.png)
-- ![GET Category by ID](Assets/get%20category%20by.png)
+- ![CREATE New Category](Assets/create-new.png)
+- ![GET All categories ](Assets/get-all.png)
+- ![GET Category by ID](Assets/get-category-by.png)
 - ![UPDATE](Assets/update.png)
 
 
 ### Insomnia: Tags Screenshots
 
--![CREATE New Tag](Assets/create%20new%20tag.png)
--![GET ALL Tags](Assets/get%20all%20tags.png)
--![GET Tag by ID](Assets/get%20tag%20by.png)
--![UPDATE](Assets/update%20tag.png)
+-![CREATE New Tag](Assets/create-new-tag.png)
+-![GET ALL Tags](Assets/get-all-tags.png)
+-![GET Tag by ID](Assets/get-tag-by.png)
+-![UPDATE](Assets/update-tag.png)
 
 
 ### Insomnia: Products Screenshots
