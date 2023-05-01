@@ -24,7 +24,6 @@ router.get('/:id', (req, res) => {
   Category.findOne({
     where: { id: req.params.id },
     include: [Product],
-    // attributes: ['product_name', 'price', 'stock']
   })
     .then((categoryData) => {
       if (!categoryData) {
