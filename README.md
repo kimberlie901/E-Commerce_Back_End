@@ -76,7 +76,7 @@ This is a back-end application for an E-Commerce site using Express.js Node.js. 
 
 - ![CREATE New Product](Assets/create-new-product.png)
 - ![GET ALL Products](Assets/get-all-products.png)
-- ![GET Product by ID](Assets/get-product-by.png)
+- ![GET Product by ID](Assets/get-product-by-id.png)
 - ![UPDATE]()
 
 ### Websites
